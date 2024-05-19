@@ -1,0 +1,8 @@
+setup.py
+src/svg2pdf.py
+src/svg2pdf.egg-info/PKG-INFO
+src/svg2pdf.egg-info/SOURCES.txt
+src/svg2pdf.egg-info/dependency_links.txt
+src/svg2pdf.egg-info/not-zip-safe
+src/svg2pdf.egg-info/top_level.txt
+test/test_circuits.py

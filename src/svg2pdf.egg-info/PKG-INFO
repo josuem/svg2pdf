@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: svg2pdf
+Version: 0.1
+Summary: A simple package to convert Inkscape's SVG to PDFs
+Home-page: 
+Author: Josue Meneses-Diaz
+Author-email: josue.meneses@usach.cl
+License: MIT
